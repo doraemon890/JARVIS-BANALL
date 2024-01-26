@@ -1,0 +1,67 @@
+{ 
+     "name": "🕸️ 🇨Ⓞ𝗗𝜩🇽 💨", 
+     "logo": "https://graph.org/file/8818c5e9470d2c6920a97.jpg", 
+     "repository": "https://github.com/MrH4CK3R474/CDX-BANALL-BOTS", 
+     "env": { 
+       "BOT_TOKEN1": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN2": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN3": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN4": { 
+             "description": "", 
+             "value": "", 
+             "required": true
+         }, 
+         "BOT_TOKEN5": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN6": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN7": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN8": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN9": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "BOT_TOKEN10": { 
+             "description": "", 
+             "value": "", 
+             "required": true 
+         }, 
+         "SUDO": { 
+             "description": "", 
+             "value": "6321280493", 
+             "required": true 
+         } 
+     }, 
+   "buildpacks": [ 
+         { 
+             "url": "heroku/python" 
+         } 
+     ] 
+ }

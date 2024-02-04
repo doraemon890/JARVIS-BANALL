@@ -5,7 +5,8 @@
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨+🦋𝐉𝐀𝐑𝐕𝐈𝐒+𝐁𝐀𝐍𝐀𝐋𝐋+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
 
-<p align="center"><a href="https://t.me/jarvis2O"> https://github.com/doraemon890/jarvis-ban-all/assets/155803358/2d28cbbb-0705-4d91-afc0-4ffa31f61b94
+<p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
+
 
 
 > ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !

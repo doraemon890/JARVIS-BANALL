@@ -5,7 +5,7 @@
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨+🦋𝐉𝐀𝐑𝐕𝐈𝐒+𝐁𝐀𝐍𝐀𝐋𝐋+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
 
-<p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/ae7bd2bba1e44c4a90575.mp4" width="400"></a></p>
+<p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/b2c5a20f7177f15729a87.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !

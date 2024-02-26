@@ -11,47 +11,47 @@
          "BOT_TOKEN2": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN3": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN4": { 
              "description": "", 
              "value": "", 
-             "required": true
+             "required": false
          }, 
          "BOT_TOKEN5": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN6": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN7": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN8": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN9": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "BOT_TOKEN10": { 
              "description": "", 
              "value": "", 
-             "required": true 
+             "required": false 
          }, 
          "SUDO": { 
              "description": "", 

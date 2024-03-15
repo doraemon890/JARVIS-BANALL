@@ -1,7 +1,7 @@
 { 
      "name": " JARVIS ", 
      "logo": "https://telegra.ph/file/83db3b7786ffa9948962b.jpg", 
-     "repository": "https://github.com/doraemon890/jarvis-ban-all/tree/main", 
+     "repository": "https://github.com/doraemon890/jarvis-ban-all", 
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 

